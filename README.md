@@ -1,5 +1,4 @@
-# Wake Word Detection Project
-
+# Wake Word Reasearch
 This repository houses the code and related resources for a project focused on testing the accuracy of a neural network (NN) in detecting the wake word "komputer". This project formed the basis for a thesis study and comprises several distinct experiments.
 
 The main function of the project is to collect 3-second voice samples from study participants, run a neural network model to verify the accuracy of the wake word detection, and subsequently save the results into a CSV file.
@@ -23,8 +22,8 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and [Pytho
 ```bash
 $ git clone [https://github.com/chwalap/wake-word-research](https://github.com/chwalap/wake-word-research)
 $ cd wake-word-research
-# Optionally create a new virtual environment
-# python -m venv venv && . venv/bin/activate
+$ python -m venv venv
+$ . venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
