@@ -1,0 +1,4 @@
+flask
+librosa
+pydub
+tensorflow

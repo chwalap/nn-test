@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='test.css') }}">
+  <title>{{ title }}</title>
+</head>
+
+<body>
+  <header>
+    <h1 class="app-title">{{ title }}</h1>
+    <button id="conduct-experiment">Przeprowadź badanie</button>
+    <div id="participant-id">{{participant_id}}</div>
+  </header>
+
+  <section>
+    {% for experiment in experiments %}
+    <div class="box">
+      <div class="experiment-id">{{ experiment.id }}</div>
+      <h2 class="box-title">{{ experiment.title }}</h2>
+      <div class="sample-status">Status: {{ experiment.status }}</div>
+      <p class="box-description">{{ experiment.description }}</p>
+      <div class="recording-counter" data-max-recordings="{{ experiment.recordings }}" >Liczba nagrań: 0/{{ experiment.recordings }}</div>
+      <div class="recording-list"></div>
+    </div>
+    {% endfor %}
+  </section>
+
+  <script src="{{ url_for('static', filename='test.js') }}"></script>
+
+  <footer>
+    <div class="footer-content">
+        Strona została stworzona w całości przez ChatGPT
+    </div>
+  </footer>
+</body>
+
+</html>
