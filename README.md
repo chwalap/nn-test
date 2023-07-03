@@ -38,6 +38,20 @@ $ python app.py
 
 Once the server is running, open a web browser and navigate to `localhost:8080` to access the website and begin testing.
 
+## Generating Research Results
+
+This project includes a Jupyter notebook that can be used to generate the research results. The notebook processes the collected data and produces a series of histograms and calculates mean accuracies based on gender, age range, and distance.
+
+```bash
+$ jupyter notebook
+```
+
+Once the Jupyter server is running, navigate to the project directory in the Jupyter interface in your web browser, and open the notebook file (`Results.ipynb`). 
+
+In this notebook, you can run all cells to generate the charts and the mean accuracy calculations.
+
+If you encounter any issues, please check that you have all necessary Python libraries installed (see the `requirements.txt` file) and that your data files are correctly located and accessible to the Jupyter notebook.
+
 ## License
 
 Distributed under the GNU Affero General Public License v3.0. See `LICENSE` for more information.
