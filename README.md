@@ -1,4 +1,4 @@
-# Wake Word Reasearch
+# Wake Word "komputer" Reasearch
 This repository houses the code and related resources for a project focused on testing the accuracy of a neural network (NN) in detecting the wake word "komputer". This project formed the basis for a thesis study and comprises several distinct experiments.
 
 The main function of the project is to collect 3-second voice samples from study participants, run a neural network model to verify the accuracy of the wake word detection, and subsequently save the results into a CSV file.
