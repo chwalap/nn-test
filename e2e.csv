@@ -1,0 +1,61 @@
+﻿Nr uczestnika;Polecenie;Słowo wybudzające wykryte;Prawidłowa interpretacja;Odpowiedź zgodna z oczekiwaniami;Czas odpowiedzi;Ocena użytkownika;Uwagi
+1;1;N;T;T;10.87;5;Słowo wybudzające wykryte za 3 razem
+1;2;T;T;T;11.48;10;
+1;3;T;T;N;9.22;8;Asystent nie jest w stanie sprawdzić pogody
+1;4;T;T;T;13.49;10;
+1;5;T;T;T;10.12;10;
+1;6;T;T;T;13.66;10;
+2;1;T;T;T;9.09;10;
+2;2;T;T;T;10.59;10;
+2;3;T;T;N;10;9;Asystent nie jest w stanie sprawdzić pogody
+2;4;T;T;T;11.36;10;
+2;5;T;T;T;9.06;10;
+2;6;T;T;T;10.91;10;
+3;1;T;N;T;9.41;8;Asystent myślał, że pytałem o stolicę Iralndii
+3;2;T;T;T;34.4;9;Bardzo długi czas odpowiedzi
+3;3;T;T;N;14.1;8;Asystent nie jest w stanie sprawdzić pogody
+3;4;T;T;T;11.79;10;
+3;5;N;T;T;14.75;9;Słowo wybudzające wykryte za 2 razem
+3;6;T;T;N;8.61;3;Brak odpowiedzi asystenta
+4;1;T;T;T;7.63;10;
+4;2;T;T;T;9.95;10;
+4;3;T;T;T;11.02;9;Asystent nie jest w stanie sprawdzić pogody
+4;4;T;T;T;9.49;10;
+4;5;T;T;T;16.21;9;Trochę długi czas odpowiedzi. Brak puenty dowcipu
+4;6;N;T;T;15.27;9;Słowo wybudzające wykryte za 2 razem
+5;1;T;N;N;10.35;5;Asystent nie zrozumiał pytania
+5;2;T;T;T;11.12;10;
+5;3;T;T;N;9.55;8;Asystent nie jest w stanie sprawdzić pogody
+5;4;T;T;T;10.93;10;
+5;5;T;T;T;9.4;10;
+5;6;T;T;T;12.43;10;
+6;1;T;T;T;10.08;10;
+6;2;T;T;T;10.52;10;
+6;3;T;T;T;9.25;9;Asystent nakłamał w sprawie pogody
+6;4;T;T;T;11.29;10;
+6;5;T;T;T;9.36;10;
+6;6;T;T;T;11.07;10;
+7;1;T;T;T;9.38;10;
+7;2;T;T;T;10.56;10;
+7;3;T;T;N;10.62;7;Asystent nie jest w stanie sprawdzić pogody
+7;4;T;T;T;11.03;10;
+7;5;T;T;T;9.93;10;
+7;6;T;T;T;10.38;10;
+8;1;T;T;T;10.84;10;
+8;2;T;T;T;9.4;10;
+8;3;T;T;N;10.33;8;Asystent nie jest w stanie sprawdzić pogody
+8;4;T;T;T;11.18;10;
+8;5;T;T;T;9.99;10;
+8;6;N;T;T;14.43;9;Słowo wybudzające wykryte za 2 razem i długi czas odpowiedzi
+9;1;T;T;T;11.29;10;
+9;2;T;T;T;10.84;10;
+9;3;T;T;N;9.26;9;Asystent nie jest w stanie sprawdzić pogody
+9;4;T;T;T;9.1;10;
+9;5;T;T;T;10.61;10;
+9;6;T;T;T;11.12;10;
+10;1;T;T;T;9.52;10;
+10;2;T;T;T;10.49;10;
+10;3;T;T;N;11.22;8;Asystent nie jest w stanie sprawdzić pogody
+10;4;T;T;T;14.02;9;Trochę długi czas odpowiedzi
+10;5;T;T;T;13.51;10;
+10;6;T;T;T;9.38;10;
